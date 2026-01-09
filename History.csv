@@ -9,3 +9,54 @@ t1,08 Jan,Modern History Set-1,History,20,Who was the founder of 'Brahmo Samaj'?
 t1,08 Jan,Modern History Set-1,History,20,The partition of Bengal (1905) was done by?,Lord Curzon,Lord Minto,Lord Ripon,Lord Canning,0,✅ Partitioned by Lord Curzon.
 t1,08 Jan,Modern History Set-1,History,20,Who wrote the book 'Discovery of India'?,M.K. Gandhi,Jawaharlal Nehru,S.C. Bose,Sardar Patel,1,✅ Written by J.L. Nehru in Ahmednagar Fort.
 t1,08 Jan,Modern History Set-1,History,20,Where did Gandhi Ji start his first Satyagraha in India?,Ahmedabad,Kheda,Champaran,Dandi,2,✅ Start in Champaran (1917).
+id,date,title,subject,time,question,opt1,opt2,opt3,opt4,answer_index,explanation
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The Indus Valley Civilization was discovered in which year?,1901,1921,1947,1911,1,✅ Discovered in 1921 by Dayaram Sahni (Harappa).
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Which site of IVC is known as the 'Mound of the Dead'?,Harappa,Lothal,Mohenjodaro,Kalibangan,2,✅ Mohenjodaro literally means 'Mound of the Dead' in Sindhi.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The 'Great Bath' was found at which site?,Harappa,Mohenjodaro,Ropar,Kalibangan,1,✅ The Great Bath is a famous structure at Mohenjodaro.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Which IVC site had a man-made dockyard?,Dholavira,Lothal,Surkotada,Chanhudaro,1,✅ Lothal (Gujarat) had a massive brick dockyard.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Evidence of a ploughed field was found at?,Kalibangan,Harappa,Banawali,Lothal,0,✅ Kalibangan (Rajasthan) shows evidence of ploughed fields.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Which metal was NOT known to the Indus Valley people?,Copper,Bronze,Gold,Iron,3,✅ Iron was not known; it was a Bronze Age civilization.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The famous 'Dancing Girl' statue is made of?,Stone,Terracotta,Bronze,Steatite,2,✅ It is a masterpiece of bronze casting (lost-wax technique).
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Which was the only city without a citadel (fortified area)?,Kalibangan,Harappa,Mohenjodaro,Chanhudaro,3,✅ Chanhudaro was an industrial town without a citadel.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The Indus Valley Civilization script was?,Brahmi,Kharosthi,Pictographic,Devanagari,2,✅ The script is pictographic and not yet deciphered.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Which animal is most frequently depicted on IVC seals?,Tiger,Elephant,Unicorn (One-horned bull),Cow,2,✅ The mystical 'Unicorn' is the most common motif.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Dholavira is famous for its unique?,Bronze Statues,Water Management System,Granary,Dockyard,1,✅ Dholavira had an advanced system of reservoirs and dams.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Who discovered the site of Mohenjodaro?,Dayaram Sahni,R.D. Banerji,S.R. Rao,B.B. Lal,1,✅ R.D. Banerji discovered Mohenjodaro in 1922.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The main crop of the Indus Valley people was?,Rice,Wheat and Barley,Pulses,Sugarcane,1,✅ Wheat and Barley were the staple food crops.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Which site provides evidence of a 'Double Burial'?,Lothal,Kalibangan,Surkotada,Harappa,0,✅ Lothal has graves with male and female skeletons together.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The 'Pashupati Seal' depicts a figure surrounded by?,Lions,Elephants and Tigers,Cows,Horses,1,✅ Surrounded by Elephant, Tiger, Rhino, and Buffalo.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,At which site were bones of a horse found (controversial)?,Lothal,Surkotada,Harappa,Alamgirpur,1,✅ Surkotada (Gujarat) yielded horse remains.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Harappa is located on the banks of which river?,Indus,Ravi,Ghaggar,Beas,1,✅ Harappa is situated on the left bank of the Ravi river.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Mohenjodaro is located on the banks of which river?,Ravi,Indus,Sutlej,Luni,1,✅ Mohenjodaro is on the banks of the Indus river.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The largest Indus Valley site in India is?,Rakhigarhi,Dholavira,Lothal,Kalibangan,0,✅ Rakhigarhi (Haryana) is the largest site in India.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Which material was commonly used to make seals?,Copper,Iron,Steatite,Terracotta,2,✅ Steatite (soft stone) was the standard material for seals.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Evidence of a 'Bead Factory' was found at?,Harappa,Chanhudaro,Mohenjodaro,Ropar,1,✅ Chanhudaro and Lothal were centers for bead making.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The town planning of IVC was based on?,Grid System,Radial System,Circular System,Unplanned,0,✅ Streets cut each other at 90 degrees (Grid System).
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The 'Bearded Priest' bust was found at?,Harappa,Lothal,Mohenjodaro,Kalibangan,2,✅ The stone bust was found at Mohenjodaro.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Which site yielded the evidence of 'Fire Altars'?,Harappa,Mohenjodaro,Kalibangan,Ropar,2,✅ Fire altars suggest ritualistic practices at Kalibangan.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Rice husk has been found at which site?,Rangpur/Lothal,Harappa,Mohenjodaro,Rakhigarhi,0,✅ Evidence of rice is found at Lothal and Rangpur.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The easternmost site of the IVC is?,Manda,Daimabad,Alamgirpur,Sutkagendor,2,✅ Alamgirpur (UP) is the eastern limit.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The northernmost site of the IVC is?,Manda,Ropar,Sanghol,Banawali,0,✅ Manda (J&K) is the northernmost site.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Who was the Director-General of ASI when IVC was discovered?,Alexander Cunningham,John Marshall,Mortimer Wheeler,Curzon,1,✅ Sir John Marshall announced the discovery to the world.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The ratio of Indus Valley bricks was typically?,1:2:3,1:2:4,1:1:1,1:3:5,1,✅ The standard dimension ratio was 1:2:4.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Which site shows a 'Signboard' with 10 large letters?,Lothal,Dholavira,Banawali,Harappa,1,✅ A unique giant inscription was found at Dholavira.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Banawali (Haryana) is famous for?,Toy Plough,Dockyard,Great Bath,Bronze Dancer,0,✅ A terracotta model of a plough was found here.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The Indus Valley people traded with which civilization?,Chinese,Mesopotamian,Mayan,Inca,1,✅ Extensive trade with Mesopotamia (called Meluha).
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Which bird was considered sacred in IVC?,Peacock,Pigeon,Eagle,Dove,1,✅ Pigeons and doves were likely revered.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The term 'Meluha' in Mesopotamian texts refers to?,Egypt,Indus Region,Bahrain,Oman,1,✅ Meluha was the ancient name for the Indus region.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Indus Valley houses were mainly built of?,Stone,Burnt Bricks,Mud,Wood,1,✅ Uniform burnt bricks were a distinct feature.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Which site revealed a skeleton with a copper mirror?,Harappa,Mohenjodaro,Lothal,Kalibangan,0,✅ Found in Cemetery R-37 at Harappa.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The swastika symbol likely originated from?,Vedic Age,Indus Valley Civilization,Mauryan Age,Gupta Age,1,✅ Swastika seals have been found in IVC.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Which site was located on the banks of the Ghaggar river?,Harappa,Kalibangan,Lothal,Ropar,1,✅ Kalibangan (Rajasthan) is on the ancient Ghaggar/Saraswati.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Polychrome pottery (multi-colored) was?,Very common,Rare,Absent,Only black,1,✅ Most pottery was Red & Black; polychrome was rare.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Who excavated the site of Dholavira?,S.R. Rao,R.S. Bisht,B.B. Lal,Y.D. Sharma,1,✅ R.S. Bisht led the excavation in the 1990s.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The 'Great Granary' at Harappa consists of how many blocks?,4,6,12,8,2,✅ It has 12 units arranged in two rows of six.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Sutkagendor is located in?,Gujarat,Punjab,Balochistan,Sindh,2,✅ It is a coastal site in Balochistan (Pakistan).
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Evidence of an earthquake was found at?,Lothal,Kalibangan,Dholavira,Harappa,1,✅ The earliest evidence of an earthquake is at Kalibangan.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Pot burials (Coffin burials) were common at?,Harappa,Mohenjodaro,Lothal,Surkotada,0,✅ Harappa (Cemetery H & R-37) shows distinct burial types.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The script was written from?,Left to Right,Right to Left,Top to Bottom,Boustrophedon,3,✅ Right to left, then left to right (Boustrophedon style).
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Which of these was NOT a deity of Harappans?,Mother Goddess,Pashupati,Trees (Peepal),Vishnu,3,✅ Vishnu worship began in the Vedic/Later Vedic period.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Weights in IVC followed a binary system in the ratio of?,16,10,12,5,0,✅ Weights were in multiples of 16 (16, 64, 160, etc.).
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Which city had three parts (Citadel, Middle, Lower)?,Harappa,Mohenjodaro,Dholavira,Lothal,2,✅ Dholavira was uniquely divided into three parts.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,Ropar is an IVC site located in?,Haryana,Punjab,Rajasthan,Gujarat,1,✅ Ropar (Rupnagar) is in Punjab, excavated by Y.D. Sharma.
+t3,09 Jan,Indus Valley Civil. Set-1,History,20,The decline of IVC is attributed to?,Floods,Aryan Invasion,Climate Change,All of the above,3,✅ Historians debate multiple causes (Floods, Aryans, Drought).
